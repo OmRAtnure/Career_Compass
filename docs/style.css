@@ -23,3 +23,8 @@ div.bg-white:hover {
 header{
     background: linear-gradient(90deg, rgba(29, 78, 216, 1) 0%, rgba(59, 130, 246, 1) 100%);
 }
+@media(max-width:800px){
+   a{
+    word-wrap: break-word;
+   }
+}
