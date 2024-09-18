@@ -19,6 +19,7 @@ div.bg-white{
 
 div.bg-white:hover {
     transform: scale(1.05,1.05);
+    background-color: #eff6ff;
 }
 header{
     background: linear-gradient(90deg, rgba(29, 78, 216, 1) 0%, rgba(59, 130, 246, 1) 100%);
